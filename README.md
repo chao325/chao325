@@ -16,7 +16,7 @@
 
 或者
 
-[![](https://img.shields.io/badge/-Epic Games-DC143C?style=for-the-badge&logo=Epic Games&logoColor=#000000)](https://www.epicgames.com/site/zh-CN/home)
+[![](https://img.shields.io/badge/-Epic Games-DC143C?style=for-the-badge&logo=EpicGames&logoColor=#000000)](https://www.epicgames.com/site/zh-CN/home)
 
 
 过度劳累后
