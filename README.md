@@ -8,7 +8,7 @@
 
 
 - :hammer: 这一个交友平台♂♂
-[![](https://img.shields.io/badge/-Steam-DC143C?style=for-the-badge&logo=steam&logoColor=#000000)](https://store.steampowered.com/)
+[![](https://img.shields.io/badge/-Steam-DC143C?logo=steam&logoColor=#000000)](https://store.steampowered.com/)
 
 
 - :ram: 打CSGO的请联系我
