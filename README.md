@@ -2,7 +2,8 @@
 
 ###  Hello World  👋
 
-- :orange_book: [![](https://img.shields.io/badge/-JavaScript-DC143C?style=for-the-badge&logo=javascript&logoColor=ffffff)](https://www.w3school.com.cn/js/index.asp)
+[![](https://img.shields.io/badge/-JavaScript-DC143C?style=for-the-badge&logo=javascript&logoColor=ffffff)](https://www.w3school.com.cn/js/index.asp)
+[![](https://img.shields.io/badge/-JavaScript-DC143C?style=for-the-badge&logo=steam&logoColor=ffffff)](https://www.w3school.com.cn/js/index.asp)
 - :hammer: 这一个交友平台♂♂
 - :ram: 打CSGO的请联系我
 - :meat_on_bone: 啊啊啊
