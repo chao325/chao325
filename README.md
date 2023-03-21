@@ -11,6 +11,7 @@
 [![](https://img.shields.io/badge/-React-DC143C?style=for-the-badge&logo=React&logoColor=#000000)](https://zh-hans.reactjs.org/)
 [![](https://img.shields.io/badge/-Flutter-DC143C?style=for-the-badge&logo=Flutter&logoColor=#000000)](https://flutter.dev/)
 [![](https://img.shields.io/badge/-Dart-DC143C?style=for-the-badge&logo=Dart&logoColor=#000000)](https://dart.cn/)
+[![](https://img.shields.io/badge/-Python-DC143C?style=for-the-badge&logo=Python&logoColor=#000000)](https://www.python.org/)
 
 
 
